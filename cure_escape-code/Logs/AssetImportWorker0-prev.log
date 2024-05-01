@@ -1,0 +1,36 @@
+Using pre-set license
+Pro License: NO
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mac/Desktop/wow kael
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49789
+Successfully changed project path to: /Users/mac/Desktop/wow kael
+/Users/mac/Desktop/wow kael
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 127.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.12f1 (afcadd793de6)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mac/Desktop/wow kael/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-11-11 13:22:07.136 Unity[1475:29667] iMac preferred device: NVIDIA GeForce GTX 775M (high power)
+2021-11-11 13:22:07.136 Unity[1475:29667] Metal devices available: 1
+2021-11-11 13:22:07.136 Unity[1475:29667] 0: NVIDIA GeForce GTX 775M (high power)
+2021-11-11 13:22:07.137 Unity[1475:29667] Using device NVIDIA GeForce GTX 775M (high power)
+Initializing Metal device caps: NVIDIA GeForce GTX 775M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56475
+Begin MonoManager ReloadAssembly
